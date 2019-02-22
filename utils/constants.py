@@ -1,6 +1,6 @@
 import inspect
 
-URL = "http://localhost:6789/login.do"
+URL = "http://localhost:8095/login.do"
 UN = "admin"
 PWD = "manager"
 
